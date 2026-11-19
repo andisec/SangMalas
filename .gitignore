@@ -1,0 +1,6 @@
+node_modules/
+capacitor/android/
+capacitor/ios/
+capacitor/.gradle/
+*.apk
+.DS_Store
